@@ -179,3 +179,5 @@
 		}, 1500);
 	});
 })(jQuery);
+
+console.log("omar ragab");
